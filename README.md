@@ -4,8 +4,8 @@ ironman skating.
 https://github.com/sandeshrajbhandari/open-sora-examples/assets/12326258/55eaa8df-d756-4566-a454-589e5a61e8f2
 
 a man is skiing down a snowy mountain. a drone shot from above. an avalanche is chasing him from behind.
-https://github.com/sandeshrajbhandari/open-sora-examples/assets/12326258/6fc1880f-cbcf-420a-b108-fd70589b916c
 
+https://github.com/sandeshrajbhandari/open-sora-examples/assets/12326258/6fc1880f-cbcf-420a-b108-fd70589b916c
 
 iron man riding a skateboard in new york city.mp4
 
